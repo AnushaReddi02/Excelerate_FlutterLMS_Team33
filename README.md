@@ -107,7 +107,7 @@ Low-fidelity wireframes were created for four key screens to visualize layout an
 ---
 
 ### 🏠 Home Dashboard  
-![Home Dashboard](assets/images/home_dashboard.png)  
+![Home Dashboard](images/home_dashboard.png)  
 - Quick access to **Programs**, **Announcements**, and **Feedback**  
 - Displays **Upcoming Events** and notifications  
 - Acts as the central hub for the app  
@@ -115,7 +115,7 @@ Low-fidelity wireframes were created for four key screens to visualize layout an
 ---
 
 ### 📚 Program Listing Screen  
-![Program Listing](assets/images/program_listing.png)  
+![Program Listing](images/program_listing.png)  
 - Displays all available programs with descriptions  
 - Each item includes a “View Details” button  
 - Includes search and category filters for easy navigation  
@@ -123,7 +123,7 @@ Low-fidelity wireframes were created for four key screens to visualize layout an
 ---
 
 ### 👤 Payments / Profile Screen  
-![Profile Screen](assets/images/profile_screen.png)  
+![Profile Screen](images/profile_screen.png)  
 - Displays payment details and personal information  
 - Allows profile management for both learners and admins  
 
