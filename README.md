@@ -1,6 +1,5 @@
 # 📱 NexLearn Mobile App  
-**Figma Design:** [View on Figma](#)  
-**Flutter Project Repository:** [NexLearn GitHub](#)
+**Figma Design:** [View on Figma](https://www.figma.com/design/B4tfxFwFK4HilQFP5s1JhU/Flutter-project?node-id=44-34&p=f&t=7Uu3Wk4FqvbDTTLL-0)  
 
 ---
 
