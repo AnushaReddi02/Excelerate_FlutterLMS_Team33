@@ -115,7 +115,7 @@ Low-fidelity wireframes were created for four key screens to visualize layout an
 ---
 
 ### 📚 Program Listing Screen  
-![Program Listing](images/program_listing.png)  
+![Program Listing](https://raw.githubusercontent.com/AnushaReddi02/Excelerate_FlutterLMS_Team33/main/images/program_listing.png)  
 - Displays all available programs with descriptions  
 - Each item includes a “View Details” button  
 - Includes search and category filters for easy navigation  
