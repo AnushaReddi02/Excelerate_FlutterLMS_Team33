@@ -20,7 +20,10 @@ class MyApp extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Text('Hello Flutter'),
-                  Text('Learn Flutter with us'),
+                  Text(
+                    'Learn Flutter with us',
+                    style: TextStyle(color: Colors.amber),
+                  ),
                 ],
               ),
             ],
