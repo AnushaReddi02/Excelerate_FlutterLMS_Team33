@@ -58,5 +58,3 @@ It allows learners to explore, enroll, and progress through courses, while instr
 
 ---
 
-## 🧭 Project Structure
-
