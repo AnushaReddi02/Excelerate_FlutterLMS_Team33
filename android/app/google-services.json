@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498461499762",
+    "firebase_url": "https://nexlearn-1-default-rtdb.firebaseio.com",
+    "project_id": "nexlearn-1",
+    "storage_bucket": "nexlearn-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498461499762:android:7f52d05aefd767a3ee7deb",
+        "android_client_info": {
+          "package_name": "com.example.nextlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498461499762-v7l8te8akh9v0uj1ru8rgn0lg761l0ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nextlearn",
+            "certificate_hash": "df291126d4a7fe64a02dfd0331757ac9501d4925"
+          }
+        },
+        {
+          "client_id": "498461499762-97i0fgb7veaeeufu6h3q4f3g9ejlk5f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaRD2ZBnoiQKN-OOPLirkXmtBPM23ei4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498461499762-97i0fgb7veaeeufu6h3q4f3g9ejlk5f1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498461499762-im145rf23p5mk9qs0kcn10oucv177kct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nextlearn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
