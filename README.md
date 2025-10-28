@@ -99,7 +99,7 @@ By integrating **program discovery**, **event engagement**, and **feedback colle
 Low-fidelity wireframes were created for four key screens to visualize layout and navigation.
 
 ### 🔐 Login Screen  
-![Login Screen](assets/images/login_screen.jpeg)  
+![Login Screen](assets/images/login_screen.png)  
 - Secure access for learners and admins  
 - Email & password fields, “Forgot Password” link, and “Sign In” button  
 - Simple and minimal design  
@@ -107,7 +107,7 @@ Low-fidelity wireframes were created for four key screens to visualize layout an
 ---
 
 ### 🏠 Home Dashboard  
-![Home Dashboard](images/home_dashboard.jpeg)  
+![Home Dashboard](images/home_dashboard.png)  
 - Quick access to **Programs**, **Announcements**, and **Feedback**  
 - Displays **Upcoming Events** and notifications  
 - Acts as the central hub for the app  
@@ -115,7 +115,7 @@ Low-fidelity wireframes were created for four key screens to visualize layout an
 ---
 
 ### 📚 Program Listing Screen  
-![Program Listing](images/program_listing.jpeg)  
+![Program Listing](images/program_listing.png)  
 - Displays all available programs with descriptions  
 - Each item includes a “View Details” button  
 - Includes search and category filters for easy navigation  
@@ -123,7 +123,7 @@ Low-fidelity wireframes were created for four key screens to visualize layout an
 ---
 
 ### 👤 Payments / Profile Screen  
-![Profile Screen](images/profile_screen.jpeg)  
+![Profile Screen](images/profile_screen.png)  
 - Displays payment details and personal information  
 - Allows profile management for both learners and admins  
 
